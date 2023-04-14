@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vyaqubov.github.io/static/css/main.2d039363.css",
+    "main.js": "/vyaqubov.github.io/static/js/main.6f430fd0.js",
+    "index.html": "/vyaqubov.github.io/index.html",
+    "main.2d039363.css.map": "/vyaqubov.github.io/static/css/main.2d039363.css.map",
+    "main.6f430fd0.js.map": "/vyaqubov.github.io/static/js/main.6f430fd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d039363.css",
+    "static/js/main.6f430fd0.js"
+  ]
+}
